@@ -21,7 +21,7 @@ Analyze the reason behind the high number of returned orders at the Superstore b
 
 
 ## Files in This Project
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## How to View This Project
 
