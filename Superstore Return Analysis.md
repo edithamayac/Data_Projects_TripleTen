@@ -1,4 +1,4 @@
-# Manhattan Vacation Rental Market
+# SUPERSTORE RETURN ANALYSIS
 
 ## Project Description
 Analyze the reason behind the high number of returned orders at the Superstore by investigating root causes through various data visualizations, building a monitoring dashboard, and presenting the findings and recommendations to the CEO through a compelling 3-5 minute data story.
