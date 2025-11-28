@@ -10,7 +10,6 @@ Analyze the reason behind the high number of returned orders at the Superstore b
 
 ## Key Findings
 
-- There is no strong positive correlation. There are well sold items with moderate to high returns. 
 - Return rate by category shows all categories with similar average return rates (25–27%), suggesting issues are not category-specific
 - Customer Behavior on Return rates. Top 60% to 100%. Identifying customers with consistently high return rates is key to uncovering issues with the items sold, customer service, or even violation of return policies. 
 - Average returns vary in every state clearly peaking in California and Utah, suggesting geographic issues.
