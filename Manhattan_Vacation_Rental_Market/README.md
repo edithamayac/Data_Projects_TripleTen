@@ -1,7 +1,7 @@
 # Manhattan Vacation Rental Market
 
 ## Project Description
-Analyzing Manhattan Airbnb data to see which neighborhoods and property sizes were more attractive for vacation rentals
+Analyzed Manhattan’s vacation rental market using Airbnb data to identify the most profitable neighborhoods and property sizes for investment to uncover which areas and listing types generate the highest returns and to guide data-driven investment decisions.
 
 ## Tools Used
 - Google Sheets
