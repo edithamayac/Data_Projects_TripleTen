@@ -16,6 +16,6 @@ Analyzing Manhattan Airbnb data to see which neighborhoods and property sizes we
 
 
 ## How to View This Project
-###View Online 
+##View Online 
 - Click this link to view the Google Sheets file: https://docs.google.com/spreadsheets/d/1jA8UrVompwZjvAM3uwIjmuVFZykUR4DUMkouH5l7ugo/edit?usp=sharing
 - The file is set to "View Only" so you can explore all tabs and analysis
