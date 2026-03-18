@@ -10,11 +10,8 @@ This project demonstrates the end-to-end analysis of an e-commerce company’s u
 
 ## Key Findings
 
-COMMING SOON
-
-
-## Files in This Project
-
+- 29% of the total of people went from viewing to putting in the shopping cart, and from there 36% proceeded to paid for it. Which tells us only 10% of the total of people went from viewing to buying.
+- Retention rates significantly declined across cohorts after the first purchase month 
 
 ## How to View This Project
 
