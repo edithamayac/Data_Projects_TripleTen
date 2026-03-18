@@ -9,3 +9,9 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 3 | Superstore Recovery Strategy | The project was about saving a failing superstore from bankruptcy by analyzing their operations data in Tableau to identify profit centers, loss-makers, optimal advertising opportunities, and problematic product returns to make data-driven recommendations for improving profitability. |
 | 4 | Superstore Return Analysis | The project task was to analyze what's causing the high number of returned orders at the Superstore by investigating root causes through various data visualizations, building a monitoring dashboard, and presenting the findings and recommendations to the CEO through a compelling 3-5 minute data story. |
 | 5 | Shopify App Analysis | The task in this project was to analyze scraped data from the Shopify App Store to identify key factors that contribute to app success by creating visualizations that examine app landscapes, review patterns, developer responsiveness, and the relationship between ratings and helpfulness using Power BI dashboards.
+| 6 | Zomato Multinational Food Delivery | This project analyzes Zomato restaurant data using Tableau to uncover key insights about restaurant performance and customer preferences. The goal was to answer important business questions such as:	
+•	Which restaurants are the most popular based on ratings and customer engagement?
+•	Which restaurants generate the highest revenue?
+•	Which cuisines have the highest average ratings?
+•	What factors contribute to a restaurant’s success?
+I performed data cleaning and preparation before building interactive dashboards in Tableau to explore patterns and relationships within the data. The visualizations highlight trends in cuisine popularity, pricing, ratings, and revenue distribution. 
